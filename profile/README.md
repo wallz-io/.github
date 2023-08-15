@@ -13,4 +13,4 @@
 - Visit our website [wallz.io](https://wallz.io).
 - Send us a message at info@wallz.io.
 - Follow us on [LinkedIn](https://www.linkedin.com/company/wallz-io).
-- Get in touch with our co-founder, @kmikiy, on GitHub
+- Get in touch with our co-founder, [@kmikiy](https://www.github.com/kmikiy), on GitHub.
